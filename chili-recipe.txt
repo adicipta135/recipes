@@ -1,4 +1,4 @@
-iIngredients:
+Ingredients:
  - 2 pounds ground beef
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
@@ -6,7 +6,7 @@ iIngredients:
  - 1 teaspoon ground oregano
  - 1 teaspoon salt
  - 1 teaspoon sesame oil
- - 1/2 teaspoon carolina reaper pepper
+ - 1/2 tablespoon carolina reaper pepper
  - 1/4 cup corn flour
  - One 15-ounce can kidney beans, drained and rinsed
  - One 15-ounce can pinto beans, drained and rinsed
